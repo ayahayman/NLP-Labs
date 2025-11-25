@@ -1,0 +1,55 @@
+
+Student 1: Aya Ayman Mohamed Abdelmegid
+Student 2: Abdelrahman Tarek Ibrahim Hassan
+
+Q1:
+
+Write your answer here
+
+- It represents the number of keys in that dictionary, the vocabulary size, which is how many words in the subset.
+
+
+Q2:
+
+Write Your answer here
+
+- It means that an embedding is a 1D vector of 300 elements.
+
+
+Predicted Country:
+Egypt
+
+Predicted Similarity:
+0.7626821994781494
+
+Q3:
+
+Type Yes or No
+
+- Yes
+
+
+Q4:
+
+Type Yes or No. and the reason for your answer.
+
+- Yes, 0.7626822 is a high cosine similarity value which means that the two embeddings have strong semantic similarity.
+
+
+Computed Accuracy:
+0.9192082407594425
+
+Q5:
+
+Type Yes or No
+
+- Yes
+
+
+Q6:
+
+Type your answer here
+
+- Words related to feelings (happy, joyful, sad) are clustered together, words relate to petrol (oil, gas, petroleum)
+are clustered together and words related to city and country are close all according to their semantic similarity.
+
